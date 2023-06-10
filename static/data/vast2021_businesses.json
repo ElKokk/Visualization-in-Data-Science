@@ -1,0 +1,457 @@
+[
+    {
+        "key": "67864967",
+        "name": "Abila Scrapyard",
+        "type": "professional",
+        "lat": 36.07439615,
+        "long": 24.8459315
+    },
+    {
+        "key": "67864964",
+        "name": "Katerina's Cafe",
+        "type": "catering",
+        "lat": 36.054484865,
+        "long": 24.899920025
+    },
+    {
+        "key": "67864966",
+        "name": "Stewart and Sons Fabrication",
+        "type": "professional",
+        "lat": 36.054154225,
+        "long": 24.90814623
+    },
+    {
+        "key": "67864968",
+        "name": "Abila Airport",
+        "type": "other",
+        "lat": 36.050941895,
+        "long": 24.825938335
+    },
+    {
+        "key": "67864969",
+        "name": "Brew've Been Served",
+        "type": "catering",
+        "lat": 36.054068564999994,
+        "long": 24.901223244999997
+    },
+    {
+        "key": "67864970",
+        "name": "Guy's Gyros",
+        "type": "catering",
+        "lat": 36.05579202,
+        "long": 24.90252774
+    },
+    {
+        "key": "67864971",
+        "name": "Kalami Kafenion",
+        "type": "catering",
+        "lat": 36.06583001,
+        "long": 24.8523876
+    },
+    {
+        "key": "67864972",
+        "name": "Ouzeri Elian",
+        "type": "catering",
+        "lat": 36.05194817,
+        "long": 24.87081616
+    },
+    {
+        "key": "67864973",
+        "name": "Frydos Autosupply n' More",
+        "type": "professional",
+        "lat": 36.054987115,
+        "long": 24.90179967
+    },
+    {
+        "key": "67864974",
+        "name": "U-Pump",
+        "type": "professional",
+        "lat": 36.067737660000006,
+        "long": 24.871503060000002
+    },
+    {
+        "key": "67864975",
+        "name": "Gelatogalore",
+        "type": "catering",
+        "lat": 36.05974659,
+        "long": 24.85802309
+    },
+    {
+        "key": "67864976",
+        "name": "Abila Zacharo",
+        "type": "catering",
+        "lat": 36.06343707,
+        "long": 24.85100036
+    },
+    {
+        "key": "67864977",
+        "name": "Albert's Fine Clothing",
+        "type": "professional",
+        "lat": 36.0752679,
+        "long": 24.85631411
+    },
+    {
+        "key": "67864978",
+        "name": "Hippokampos",
+        "type": "catering",
+        "lat": 36.076659295,
+        "long": 24.857617125
+    },
+    {
+        "key": "67864979",
+        "name": "Desafio Golf Course",
+        "type": "other",
+        "lat": 36.089558995000004,
+        "long": 24.86068113
+    },
+    {
+        "key": "67864980",
+        "name": "Shoppers' Delight",
+        "type": "catering",
+        "lat": 36.0528404,
+        "long": 24.8686119
+    },
+    {
+        "key": "67864981",
+        "name": "Ahaggo Museum",
+        "type": "other",
+        "lat": 36.07713388,
+        "long": 24.87619413
+    },
+    {
+        "key": "67864982",
+        "name": "General Grocer",
+        "type": "other",
+        "lat": 36.060366189999996,
+        "long": 24.8565623
+    },
+    {
+        "key": "67864983",
+        "name": "Roberts and Sons",
+        "type": "professional",
+        "lat": 36.063255655,
+        "long": 24.85230103
+    },
+    {
+        "key": "67864984",
+        "name": "Coffee Cameleon",
+        "type": "catering",
+        "lat": 36.054661455,
+        "long": 24.889784505
+    },
+    {
+        "key": "67864985",
+        "name": "Octavio's Office Supplies",
+        "type": "professional",
+        "lat": 36.05856542,
+        "long": 24.857953515
+    },
+    {
+        "key": "67864986",
+        "name": "Hallowed Grounds",
+        "type": "catering",
+        "lat": 36.063652919999996,
+        "long": 24.885911489999998
+    },
+    {
+        "key": "67864987",
+        "name": "Frank's Fuel",
+        "type": "professional",
+        "lat": 36.07217077,
+        "long": 24.841320279999998
+    },
+    {
+        "key": "67864988",
+        "name": "Chostus Hotel",
+        "type": "other",
+        "lat": 36.070665455,
+        "long": 24.895204794999998
+    },
+    {
+        "key": "67864989",
+        "name": "Kronos Pipe and Irrigation",
+        "type": "professional",
+        "lat": 36.065292825,
+        "long": 24.833101534999997
+    },
+    {
+        "key": "67864990",
+        "name": "Bean There Done That",
+        "type": "catering",
+        "lat": 36.081762905,
+        "long": 24.85093111
+    },
+    {
+        "key": "67864991",
+        "name": "Brewed Awakenings",
+        "type": "catering",
+        "lat": 36.07332552,
+        "long": 24.864188204999998
+    },
+    {
+        "key": "67864992",
+        "name": "Jack's Magical Beans",
+        "type": "catering",
+        "lat": 36.0675303,
+        "long": 24.873358945
+    },
+    {
+        "key": "67864993",
+        "name": "home_1",
+        "type": "domestic",
+        "lat": 36.066466395,
+        "long": 24.88259662
+    },
+    {
+        "key": "67864994",
+        "name": "home_10",
+        "type": "housing",
+        "lat": 36.076803354999996,
+        "long": 24.8658797
+    },
+    {
+        "key": "67864995",
+        "name": "home_11",
+        "type": "housing",
+        "lat": 36.08414055,
+        "long": 24.859008915
+    },
+    {
+        "key": "67864996",
+        "name": "home_12",
+        "type": "housing",
+        "lat": 36.06776312,
+        "long": 24.899131445000002
+    },
+    {
+        "key": "67864997",
+        "name": "home_13",
+        "type": "housing",
+        "lat": 36.060371020000005,
+        "long": 24.905600749999998
+    },
+    {
+        "key": "67864998",
+        "name": "home_15",
+        "type": "housing",
+        "lat": 36.060371020000005,
+        "long": 24.905600749999998
+    },
+    {
+        "key": "67864999",
+        "name": "home_16",
+        "type": "housing",
+        "lat": 36.060371020000005,
+        "long": 24.905600749999998
+    },
+    {
+        "key": "67865000",
+        "name": "home_18",
+        "type": "housing",
+        "lat": 36.063360615,
+        "long": 24.896128824999998
+    },
+    {
+        "key": "67865001",
+        "name": "home_19",
+        "type": "housing",
+        "lat": 36.08786479,
+        "long": 24.85630463
+    },
+    {
+        "key": "67865002",
+        "name": "home_2",
+        "type": "housing",
+        "lat": 36.08544876,
+        "long": 24.860409869999998
+    },
+    {
+        "key": "67865003",
+        "name": "home_20",
+        "type": "housing",
+        "lat": 36.065860665,
+        "long": 24.901042455000002
+    },
+    {
+        "key": "67865004",
+        "name": "home_21",
+        "type": "housing",
+        "lat": 36.060371020000005,
+        "long": 24.905600749999998
+    },
+    {
+        "key": "67865005",
+        "name": "home_22",
+        "type": "housing",
+        "lat": 36.05846675,
+        "long": 24.90103895
+    },
+    {
+        "key": "67865006",
+        "name": "home_23",
+        "type": "housing",
+        "lat": 36.05846675,
+        "long": 24.90103895
+    },
+    {
+        "key": "67865007",
+        "name": "home_24",
+        "type": "housing",
+        "lat": 36.062469,
+        "long": 24.8988133
+    },
+    {
+        "key": "67865008",
+        "name": "home_25",
+        "type": "housing",
+        "lat": 36.0594635,
+        "long": 24.894818125
+    },
+    {
+        "key": "67865009",
+        "name": "home_26",
+        "type": "housing",
+        "lat": 36.072940355,
+        "long": 24.884009605
+    },
+    {
+        "key": "67865010",
+        "name": "home_27",
+        "type": "housing",
+        "lat": 36.06924618,
+        "long": 24.884218515
+    },
+    {
+        "key": "67865011",
+        "name": "home_28",
+        "type": "housing",
+        "lat": 36.069130249999986,
+        "long": 24.879694715
+    },
+    {
+        "key": "67865012",
+        "name": "home_29",
+        "type": "housing",
+        "lat": 36.0594635,
+        "long": 24.894818125
+    },
+    {
+        "key": "67865013",
+        "name": "home_3",
+        "type": "housing",
+        "lat": 36.086651565,
+        "long": 24.85762145
+    },
+    {
+        "key": "67865014",
+        "name": "home_30",
+        "type": "housing",
+        "lat": 36.05846675,
+        "long": 24.90103895
+    },
+    {
+        "key": "67865015",
+        "name": "home_32",
+        "type": "housing",
+        "lat": 36.07216237,
+        "long": 24.874616664999998
+    },
+    {
+        "key": "67865016",
+        "name": "home_33",
+        "type": "housing",
+        "lat": 36.062469,
+        "long": 24.8988133
+    },
+    {
+        "key": "67865017",
+        "name": "home_34",
+        "type": "housing",
+        "lat": 36.06769448,
+        "long": 24.902501155
+    },
+    {
+        "key": "67865018",
+        "name": "home_35",
+        "type": "housing",
+        "lat": 36.07623461,
+        "long": 24.874658985
+    },
+    {
+        "key": "67865019",
+        "name": "home_4",
+        "type": "housing",
+        "lat": 36.07820236,
+        "long": 24.87209891
+    },
+    {
+        "key": "67865020",
+        "name": "home_5",
+        "type": "housing",
+        "lat": 36.06732604,
+        "long": 24.877915145000003
+    },
+    {
+        "key": "67865021",
+        "name": "home_6",
+        "type": "housing",
+        "lat": 36.0594635,
+        "long": 24.894818125
+    },
+    {
+        "key": "67865022",
+        "name": "home_7",
+        "type": "housing",
+        "lat": 36.084446045,
+        "long": 24.864214914999998
+    },
+    {
+        "key": "67865023",
+        "name": "home_8",
+        "type": "housing",
+        "lat": 36.067239965,
+        "long": 24.885913435
+    },
+    {
+        "key": "67865024",
+        "name": "home_9",
+        "type": "housing",
+        "lat": 36.08428823,
+        "long": 24.85638433
+    },
+    {
+        "key": "67864962",
+        "name": "Nationwide Refinery",
+        "type": "professional",
+        "lat": 36.058449955,
+        "long": 24.8855141
+    },
+    {
+        "key": "67864963",
+        "name": "Maximum Iron and Steel",
+        "type": "professional",
+        "lat": 36.064072405,
+        "long": 24.841356505
+    },
+    {
+        "key": "67864965",
+        "name": "Carlyle Chemical Inc.",
+        "type": "professional",
+        "lat": 36.0585396,
+        "long": 24.88089748
+    },
+    {
+        "key": "67865986",
+        "name": "home_14",
+        "type": "housing",
+        "lat": 36.063360615,
+        "long": 24.896128824999998
+    },
+    {
+        "key": "67866044",
+        "name": "GAStech",
+        "type": "professional",
+        "lat": 36.0481,
+        "long": 24.87956878
+    }
+]
